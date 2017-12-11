@@ -6,7 +6,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "a" && password == "1"){
 alert ("Login successfully");
-window.location = "dos.html"; // Redirecting to other page.
+window.location ="https://noenadies.github.io/titanic/";// "dos.html"; // Redirecting to other page.
 return false;
 }
 else{
