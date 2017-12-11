@@ -4,9 +4,9 @@ function validate(){
   
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "Formget" && password == "formget#123"){
+if ( username == "a" && password == "1"){
 alert ("Login successfully");
-window.location ="https://noenadies.github.io/titanic/";//// "dos.html"; // Redirecting to other page.
+window.location = "dos.html"; // Redirecting to other page.
 return false;
 }
 else{
