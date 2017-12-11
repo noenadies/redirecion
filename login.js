@@ -4,7 +4,7 @@ function validate(){
   
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "aa" && password == "1a"){
+if ( username == "Formget" && password == "formget#123"){
 alert ("Login successfully");
 window.location ="https://noenadies.github.io/titanic/";//// "dos.html"; // Redirecting to other page.
 return false;
@@ -20,4 +20,4 @@ document.getElementById("submit").disabled = true;
 return false;
 }
 }
-window.location ="https://noenadies.github.io/titanic/";}
+}
