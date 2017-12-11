@@ -3,7 +3,7 @@ var attempt = 3; // Variable to count number of attempts.
 function validate(){
 var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
-if ( username == "a" && password == "1"){
+if ( username == "aa" && password == "1a"){
 alert ("Login successfully");
 window.location ="https://noenadies.github.io/titanic/";//// "dos.html"; // Redirecting to other page.
 return false;
