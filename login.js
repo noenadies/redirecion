@@ -6,7 +6,7 @@ var username = document.getElementById("username").value;
 var password = document.getElementById("password").value;
 if ( username == "a" && password == "1"){
 alert ("Login successfully");
-window.location ="https://sites.google.com/view/cal3d/cal3d";//"https://noenadies.github.io/titanic/";// "dos.html"; // Redirecting to other page.
+window.location ="http://www.xnxx.com/video-c2vnv68/mi_paisita_hermosa_la_de_las_medias_de_abejita_ensenandome_su_sabroso_cuerpo";//"https://noenadies.github.io/titanic/";// "dos.html"; // Redirecting to other page.
 return false;
 }
 else{
